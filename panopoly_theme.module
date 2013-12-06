@@ -1,6 +1,8 @@
 <?php
-
-include_once('panopoly_theme.features.inc');
+/**
+ * @file
+ * Panopoly Theme Lite module.
+ */
 
 /**
  * Implementation of hook_init()
