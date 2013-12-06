@@ -1,5 +1,5 @@
-Panopoly Theme
-==============
+Panopoly Theme Lite
+===================
 Helps with theming and provides many layouts
 
 Key Features
